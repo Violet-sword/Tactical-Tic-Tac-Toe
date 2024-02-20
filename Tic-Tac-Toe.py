@@ -1,5 +1,7 @@
 
 # Basic Tic-Tac-Toe game
+# 
+# A classical game of simple strategy since the dawn of time.
 
 def print_board(board):
     for row in board:
